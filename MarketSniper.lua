@@ -1,4 +1,4 @@
-﻿MarketSniper = {}
+MarketSniper = {}
 MarketSniper.LoopID = nil
 MarketSniper.IsRunning = false
 
